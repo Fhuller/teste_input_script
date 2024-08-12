@@ -1,0 +1,9 @@
+2024-08-12 20:51:06,858 - INFO - Iniciando o script de Playwright.
+2024-08-12 20:51:07,265 - INFO - Iniciando o navegador Chromium.
+2024-08-12 20:51:11,587 - INFO - Navegou para a URL.
+2024-08-12 20:51:11,587 - INFO - Preenchendo o formulário.
+2024-08-12 20:51:41,841 - ERROR - Ocorreu um erro: Page.fill: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("//*[@id=\"_form_1919_\"]/div[1]/div[1]/div/input")
+
+2024-08-12 20:51:41,841 - INFO - Fechando o navegador.
