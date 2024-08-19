@@ -7,3 +7,21 @@ Call log:
 waiting for locator("//*[@id=\"_form_1919_\"]/div[1]/div[1]/div/input")
 
 2024-08-12 20:51:41,841 - INFO - Fechando o navegador.
+2024-08-18 22:35:36,217 - INFO - Iniciando o script de Playwright.
+2024-08-18 22:35:36,581 - INFO - Iniciando o navegador Chromium.
+2024-08-18 22:35:43,157 - INFO - Navegou para a URL.
+2024-08-18 22:35:43,157 - INFO - Preenchendo o formulário.
+2024-08-18 22:36:13,328 - ERROR - Ocorreu um erro: Page.fill: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("//*[@id=\"_form_1919_\"]/div[1]/div[1]/div/input")
+
+2024-08-18 22:36:13,328 - INFO - Fechando o navegador.
+2024-08-18 22:56:28,719 - INFO - Iniciando o script de Playwright.
+2024-08-18 22:56:29,089 - INFO - Iniciando o navegador Chromium.
+2024-08-18 22:56:31,940 - INFO - Navegou para a URL.
+2024-08-18 22:56:31,940 - INFO - Preenchendo o formulário.
+2024-08-18 22:57:02,124 - ERROR - Ocorreu um erro: Page.fill: Timeout 30000ms exceeded.
+Call log:
+waiting for locator("//*[@id=\"_form_1919_\"]/div[1]/div[1]/div/input")
+
+2024-08-18 22:57:02,164 - INFO - Fechando o navegador.
